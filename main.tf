@@ -2,7 +2,7 @@ locals {
   vpc_id           = "vpc-0548d408bf3549ca0"
   subnet_id        = "subnet-060a1ae52cf0a73d6"
   ssh_user         = "ubuntu"
-  key_name         = "devops"
+  key_name         = "devopsa"
   private_key_path = "~/Downloads/sudeep.pem"
 }
 
